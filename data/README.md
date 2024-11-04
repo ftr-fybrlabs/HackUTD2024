@@ -2,8 +2,8 @@
 There are two files in this directory that contain real customer data in CSV format. You can use these files (if you wish) to see what customers have ordered in the past and compare them to a potential new customer.
 Additionally, we've provided a file of example customers that you can use to simulate a new or existing customer calling for either a support reason (poor Internet connection or low speed, etc.) or to upgrade their service.
 ## Current Customers
-This file contains ~800k rows collected on a single day from our network. It contains multiple columns of network data, geographic location, and some of the products they've purchased.<br><br>
-You can find this data in [```current_customers.csv```](current_customers.csv).
+This zipped file contains ~800k rows collected on a single day from our network. It contains multiple columns of network data, geographic location, and some of the products they've purchased.<br><br>
+You can find this data in [```current_customers.csv.zip```](current_customers.csv.zip).
 ## Example Networks
 This file contains 10,000 rows collected on a single day from some of the customers in our network. These two files **do not overlap** but were collected on the same day. They do not contain any products (outside of their current speed).<br>
 You can find this data in [```example_networks.csv```](example_networks.csv)
