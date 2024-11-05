@@ -13,5 +13,6 @@ You can find this data in [```example_networks.csv```](example_networks.csv)
 The [Data Dictionary](Data_Dictionary.md) provides column names and types of both files.
 ## Product Catalog
 The [Product Catalog](Product_Catalog.md) will provide you a list of possible products you could offer a customer based on their network data.
+You can also see more information about some of these products [here](https://frontier.com/shop/additional-services)
 ## Network Metrics Overview
 One last [file](Network_Metrics.md) is some helpful tips on how network metrics impact a customer's experience. These can be useful when trying to decide, for example, if a customer needs another extender.
