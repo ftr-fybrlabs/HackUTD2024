@@ -11,7 +11,7 @@
 ||Whole Home WIFI||
 ||My Premium Tech Pro||
 ||WIFI Security||
-|Whole-Home Wi-Fi|Up to two additional extenders provided to Fiber 2 Gig speeds and below and 1 extender for 7 and 5 Gig to get a consistently strong Wi-Fi signal throughout the home.|$10.00/mo|
+|Whole-Home Wi-Fi|Get the latest generation router with up to two additional extenders provided to Fiber 2 Gig speeds and below and 1 extender for 7 and 5 Gig to get a consistently strong Wi-Fi signal throughout the home.|$10.00/mo|
 ||Helps with dead spots, drop-offs and buffering – even when the whole family is online.||
 ||Devices are in addition to the free device included with internet service.||
 |Unbreakable Wi-Fi|Unbreakable Wi-Fi is an add-on service for Frontier Fiber Internet customers providing a backup internet during unexpected Frontier fiber network outages.|$25.00/mo|
